@@ -9,7 +9,7 @@ This is a project for the Machine Learning course. This notebook includes classi
 -   Dataset: Includes 11 features and 918 rows. Taken from [Kaggle.](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
 -   Classification Methods: Naïve Bayes, SVM, Logistic Regression, Random Forest, XGBoost, LightGBM and MLP.
 
-## Dataset and Machine Learning Models
+## Files
 -   heart.csv 
 -   CS512_Final_Code.ipynb 
 
