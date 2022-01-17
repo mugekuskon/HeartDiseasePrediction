@@ -2,7 +2,7 @@
 
 # Heart Disease Prediction
 
-This notebook includes classification of 918 patients with seven different machine learning algorithms.
+This is a project for the Machine Learning course. This notebook includes classification of 918 patients with seven different machine learning algorithms.
 
 ## Dataset and Machine Learning Models
 
